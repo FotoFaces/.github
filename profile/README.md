@@ -29,3 +29,22 @@ If you would like, you can also look into the code behind the [Mobile Applicatio
 - [Goncalo Machado - 98359](https://github.com/goncalo-machado)
 - [Vicente Costa - 98515](https://github.com/SrPhoenix)
 - [João Borges - 98155](https://github.com/JoaoBorgesUA)
+
+## Demonstration Video
+- <a href="[https://www.youtube.com/watch?v=29TzdvIAcVc](https://www.youtube.com/watch?v=X0YuwWJKe6k)">Demonstration</a>
+
+## Students@DETI
+### Promotional Video
+- <a href="https://www.youtube.com/watch?v=29TzdvIAcVc">Promotional Video</a>
+
+### Poster
+![Poster](https://github.com/FotoFaces/Documentation/Students@DETI/poster.png)
+
+## Presentations
+- [Milestone 1](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M1-Presentation.pdf)
+- [Milestone 2](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M2-Presentation.pdf)
+- [Milestone 3](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M3-Presentation.pdf)
+- [Milestone 4](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M4-Presentation.pdf)
+
+## Deliverables
+- [Report](https://github.com/FotoFaces/Documentation/Deliverables/FotoFaces-Report.pdf)
