@@ -38,13 +38,13 @@ If you would like, you can also look into the code behind the [Mobile Applicatio
 - <a href="https://www.youtube.com/watch?v=29TzdvIAcVc">Promotional Video</a>
 
 ### Poster
-![Poster](https://github.com/FotoFaces/Documentation/Students@DETI/poster.png)
+![Poster](https://github.com/FotoFaces/Documentation/blob/main/Students%40DETI/poster.png)
 
 ## Presentations
-- [Milestone 1](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M1-Presentation.pdf)
-- [Milestone 2](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M2-Presentation.pdf)
-- [Milestone 3](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M3-Presentation.pdf)
-- [Milestone 4](https://github.com/FotoFaces/Documentation/Presentations/FotoFaces_M4-Presentation.pdf)
+- [Milestone 1](https://github.com/FotoFaces/Documentation/blob/main/Presentations/FotoFaces_M1-Presentation.pdf)
+- [Milestone 2](https://github.com/FotoFaces/Documentation/blob/main/Presentations/FotoFaces_M2Presentation.pdf)
+- [Milestone 3](https://github.com/FotoFaces/Documentation/blob/main/Presentations/FotoFaces_M3Presentation.pdf)
+- [Milestone 4](https://github.com/FotoFaces/Documentation/blob/main/Presentations/FotoFaces_M4Presentation.pdf)
 
 ## Deliverables
-- [Report](https://github.com/FotoFaces/Documentation/Deliverables/FotoFaces-Report.pdf)
+- [Report](https://github.com/FotoFaces/Documentation/blob/main/Deliverables/FotoFaces-Report.pdf)
